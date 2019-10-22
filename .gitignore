@@ -18,6 +18,9 @@ node_modules/
 # VSCode settings
 .vscode/
 
+# IntelliJ Settings
+.idea
+
 # Eslint cache
 .eslintcache
 .eslintrc.*
